@@ -1,0 +1,3 @@
+﻿  TicTacToe.cpp
+C:\Users\Sonyc\source\repos\TicTacToe\TicTacToe\TicTacToe.cpp(16,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  TicTacToe.vcxproj -> C:\Users\Sonyc\source\repos\TicTacToe\Debug\TicTacToe.exe
